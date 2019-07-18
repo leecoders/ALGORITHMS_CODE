@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/me2in/CLionProjects/jongman/cmake-build-debug/poly.cpp
+iostream
+-
+string.h
+-
+algorithm
+-
+vector
+-
+
