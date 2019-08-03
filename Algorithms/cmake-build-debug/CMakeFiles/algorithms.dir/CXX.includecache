@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/leecoders/CLionProjects/Algorithms/4949.cpp
-bits/stdc++.h
-/Users/leecoders/CLionProjects/Algorithms/bits/stdc++.h
+/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17298.cpp
 
-/Users/leecoders/CLionProjects/Algorithms/bits/stdc++.h
+/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/4179.cpp
+bits/stdc++.h
+/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/bits/stdc++.h
+
+/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/bits/stdc++.h
 cassert
 -
 cctype

@@ -25,11 +25,19 @@
 //vector<pii> pos;
 //int ans = INT_MIN;
 //
+//void show() {
+//    for(int i=0; i<s.size(); ++i) {
+//        cout << s[i];
+//    }
+//    cout << '\n' << '\n';
+//}
+//
 //int calc() {
+//    show();
 //    stack<int> nums;
 //    stack<char> ops;
 //    for(int i=0; i < s.size(); ++i) {
-//        if(s[i] == 'j') continue;
+//        if(s[i] == '.') continue;
 //        if('0' <= s[i] && s[i] <= '9') {
 //            if(nums.empty())
 //                nums.push(s[i]-'0');
@@ -95,8 +103,8 @@
 //        dfs(i);
 //        visited[i] = false;
 //
-//        s[pos[i].first] = 'j';
-//        s[pos[i].second] = 'j';
+//        s[pos[i].first] = '.';
+//        s[pos[i].second] = '.';
 //    }
 //}
 //
@@ -105,17 +113,17 @@
 //
 //    cin >> n >> input;
 //
-//    s.pb('j');
+//    s.pb('.');
 //    for(int i=0; i<input.length(); ++i) {
 //        if('0' <= input[i] && input[i] <= '9')
 //            s.pb(input[i]);
 //        else {
-//            s.pb('j');
+//            s.pb('.');
 //            s.pb(input[i]);
-//            s.pb('j');
+//            s.pb('.');
 //        }
 //    }
-//    s.pb('j');
+//    s.pb('.');
 //
 //    for(int i=0; i < n/2; ++i) {
 //        int start = 4 * i;

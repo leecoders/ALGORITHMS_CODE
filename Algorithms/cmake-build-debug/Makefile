@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/leecoders/CLionProjects/Algorithms
+CMAKE_SOURCE_DIR = /Users/leecoders/CLionProjects/algorithmsCode/Algorithms
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/leecoders/CLionProjects/Algorithms/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles /Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -2715,6 +2715,33 @@ algorithms/fast:
 	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/1725.cpp.s
 .PHONY : 1725.cpp.s
 
+17298.o: 17298.cpp.o
+
+.PHONY : 17298.o
+
+# target to build an object file
+17298.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/17298.cpp.o
+.PHONY : 17298.cpp.o
+
+17298.i: 17298.cpp.i
+
+.PHONY : 17298.i
+
+# target to preprocess a source file
+17298.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/17298.cpp.i
+.PHONY : 17298.cpp.i
+
+17298.s: 17298.cpp.s
+
+.PHONY : 17298.s
+
+# target to generate assembly for a file
+17298.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/17298.cpp.s
+.PHONY : 17298.cpp.s
+
 1761.o: 1761.cpp.o
 
 .PHONY : 1761.o
@@ -4038,6 +4065,33 @@ algorithms/fast:
 	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/3985.cpp.s
 .PHONY : 3985.cpp.s
 
+4179.o: 4179.cpp.o
+
+.PHONY : 4179.o
+
+# target to build an object file
+4179.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/4179.cpp.o
+.PHONY : 4179.cpp.o
+
+4179.i: 4179.cpp.i
+
+.PHONY : 4179.i
+
+# target to preprocess a source file
+4179.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/4179.cpp.i
+.PHONY : 4179.cpp.i
+
+4179.s: 4179.cpp.s
+
+.PHONY : 4179.s
+
+# target to generate assembly for a file
+4179.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/4179.cpp.s
+.PHONY : 4179.cpp.s
+
 4902.o: 4902.cpp.o
 
 .PHONY : 4902.o
@@ -5253,33 +5307,6 @@ swea5656.cpp.s:
 	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/swea5656.cpp.s
 .PHONY : swea5656.cpp.s
 
-test.o: test.cpp.o
-
-.PHONY : test.o
-
-# target to build an object file
-test.cpp.o:
-	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/test.cpp.o
-.PHONY : test.cpp.o
-
-test.i: test.cpp.i
-
-.PHONY : test.i
-
-# target to preprocess a source file
-test.cpp.i:
-	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/test.cpp.i
-.PHONY : test.cpp.i
-
-test.s: test.cpp.s
-
-.PHONY : test.s
-
-# target to generate assembly for a file
-test.cpp.s:
-	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/test.cpp.s
-.PHONY : test.cpp.s
-
 test_array_as_a_parameter.o: test_array_as_a_parameter.cpp.o
 
 .PHONY : test_array_as_a_parameter.o
@@ -5631,6 +5658,9 @@ help:
 	@echo "... 1725.o"
 	@echo "... 1725.i"
 	@echo "... 1725.s"
+	@echo "... 17298.o"
+	@echo "... 17298.i"
+	@echo "... 17298.s"
 	@echo "... 1761.o"
 	@echo "... 1761.i"
 	@echo "... 1761.s"
@@ -5778,6 +5808,9 @@ help:
 	@echo "... 3985.o"
 	@echo "... 3985.i"
 	@echo "... 3985.s"
+	@echo "... 4179.o"
+	@echo "... 4179.i"
+	@echo "... 4179.s"
 	@echo "... 4902.o"
 	@echo "... 4902.i"
 	@echo "... 4902.s"
@@ -5913,9 +5946,6 @@ help:
 	@echo "... swea5656.o"
 	@echo "... swea5656.i"
 	@echo "... swea5656.s"
-	@echo "... test.o"
-	@echo "... test.i"
-	@echo "... test.s"
 	@echo "... test_array_as_a_parameter.o"
 	@echo "... test_array_as_a_parameter.i"
 	@echo "... test_array_as_a_parameter.s"

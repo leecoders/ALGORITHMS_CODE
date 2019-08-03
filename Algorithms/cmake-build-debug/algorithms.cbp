@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug"/>
+				<Option working_dir="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug"/>
+				<Option working_dir="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug"/>
+				<Option working_dir="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithms">
-				<Option output="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/algorithms" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug"/>
+				<Option output="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithms/fast">
-				<Option output="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/algorithms" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug"/>
+				<Option output="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,593 +73,596 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/0000.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/0000.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1009.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1009.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1015.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1015.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1018.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1018.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1019.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1019.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1024.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1024.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1035.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1035.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10451.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10451.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1059.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1059.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1062.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1062.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1063.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1063.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1074.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1074.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10815.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10815.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10816.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10816.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10825.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10825.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10828.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10828.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10845.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10845.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/10942.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10942.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11437.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11437.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11438.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11438.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11501.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11501.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11652.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11652.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11655.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11655.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1167.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1167.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11724.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11724.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11725.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11725.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11728.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11728.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11729.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11729.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1173.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1173.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1174.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1174.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1194.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1194.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/11967.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11967.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1197.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1197.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/12100.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/12100.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1213.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1213.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1261.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1261.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/12759.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/12759.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/12851.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/12851.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1331.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1331.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/13335.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/13335.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/13458.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/13458.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/13460.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/13460.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1347.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1347.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/13549.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/13549.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1377.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1377.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1388.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1388.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/13913.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/13913.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1436.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1436.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14499.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14499.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14503.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14503.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14868.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14868.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14888.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14888.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14889.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14889.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14890.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14890.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/14891.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/14891.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1517.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1517.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1525.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1525.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1543.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1543.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1551.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1551.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15683.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15683.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15684.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15684.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15686.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15686.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15788.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15788.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15898.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15898.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15970.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15970.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/15979.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/15979.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1600.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1600.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1614.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1614.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1620.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1620.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16234.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16234.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16236.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16236.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16637.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16637.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16638.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16638.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1671.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1671.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16854.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16854.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16918.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16918.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16920.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16920.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16932.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16932.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16935.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16935.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16939.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16939.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16954.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16954.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16955.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16955.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16985.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16985.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16987.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16987.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16988.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16988.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/16989.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/16989.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1707.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1707.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17071.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17071.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17135.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17135.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17136.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17136.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17140.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17140.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17141.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17141.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17142.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17142.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17143.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17143.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/17175.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17175.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1725.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1725.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1761.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17298.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1780.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1761.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1799.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1780.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1806.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1799.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1918.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1806.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1922.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1918.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1926.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1922.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1935.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1926.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1941.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1935.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1967.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1941.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1986.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1967.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1991.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1986.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/1992.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1991.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2003.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1992.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2011.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2003.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2072.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2011.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2075.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2072.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2143.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2075.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2146.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2143.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2151.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2146.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2234.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2151.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2251.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2234.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2263.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2251.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2309.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2263.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2331.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2309.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2399.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2331.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2455.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2399.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2493.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2455.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2615.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2493.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2812.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2615.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2866.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2812.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2870.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2866.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2915.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2870.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2916.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2915.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2931.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2916.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2959.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2931.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/2980.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2959.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3019.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2980.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3048.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3019.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3049.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3048.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3090.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3049.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3176.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3090.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3190.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3176.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3197.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3190.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3568.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3197.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3613.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3568.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3649.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3613.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3980.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3649.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/3985.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3980.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/4902.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3985.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/4949.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/4179.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/4991.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/4902.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/5213.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/4949.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/5397.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/4991.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/5427.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/5213.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/5566.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/5397.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/5650.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/5427.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/6087.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/5566.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/6593.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/5650.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/6603.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/6087.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/8979.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/6593.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/8982.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/6603.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/9093.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/8979.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/9466.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/8982.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/9517.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/9093.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/9550.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/9466.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/9663.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/9517.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/9933.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/9550.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/bfs_16509.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/9663.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/bruteforce_10971.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/9933.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/dfs_16508.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/bfs_16509.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/dp_1010.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/bruteforce_10971.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/dp_2293.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/dfs_16508.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/dp_9251.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/dp_1010.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/dp_9252.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/dp_2293.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/dp_9461.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/dp_9251.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/math_16503.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/dp_9252.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/math_16504.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/dp_9461.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/math_16510.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/math_16503.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/math_5612.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/math_16504.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/math_8979.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/math_16510.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/multiply.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/math_5612.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/password.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/math_8979.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/printingstar_16505.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/multiply.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/simul_5373.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/password.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/sort.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/printingstar_16505.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/stemCells.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/simul_5373.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea1949.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/sort.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea1953.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/stemCells.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea2112.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea1949.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea2115.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea1953.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea4008.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea2112.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea4131.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea2115.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/swea5656.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea4008.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/test.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea4131.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/test_array_as_a_parameter.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea5656.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/test_lower_upper_bound.cpp">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/test_array_as_a_parameter.cpp">
 			<Option target="algorithms"/>
 		</Unit>
-		<Unit filename="/Users/leecoders/CLionProjects/Algorithms/CMakeLists.txt">
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/test_lower_upper_bound.cpp">
+			<Option target="algorithms"/>
+		</Unit>
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
