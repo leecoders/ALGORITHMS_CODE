@@ -3768,6 +3768,33 @@ algorithms/fast:
 	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/2980.cpp.s
 .PHONY : 2980.cpp.s
 
+3015.o: 3015.cpp.o
+
+.PHONY : 3015.o
+
+# target to build an object file
+3015.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/3015.cpp.o
+.PHONY : 3015.cpp.o
+
+3015.i: 3015.cpp.i
+
+.PHONY : 3015.i
+
+# target to preprocess a source file
+3015.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/3015.cpp.i
+.PHONY : 3015.cpp.i
+
+3015.s: 3015.cpp.s
+
+.PHONY : 3015.s
+
+# target to generate assembly for a file
+3015.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithms.dir/build.make CMakeFiles/algorithms.dir/3015.cpp.s
+.PHONY : 3015.cpp.s
+
 3019.o: 3019.cpp.o
 
 .PHONY : 3019.o
@@ -5802,6 +5829,9 @@ help:
 	@echo "... 2980.o"
 	@echo "... 2980.i"
 	@echo "... 2980.s"
+	@echo "... 3015.o"
+	@echo "... 3015.i"
+	@echo "... 3015.s"
 	@echo "... 3019.o"
 	@echo "... 3019.i"
 	@echo "... 3019.s"

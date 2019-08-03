@@ -196,7 +196,6 @@ CMakeFiles/algorithms.dir/1725.cpp.o: ../1725.cpp
 CMakeFiles/algorithms.dir/17298.cpp.o: ../17298.cpp
 
 CMakeFiles/algorithms.dir/17299.cpp.o: ../17299.cpp
-CMakeFiles/algorithms.dir/17299.cpp.o: ../bits/stdc++.h
 
 CMakeFiles/algorithms.dir/1761.cpp.o: ../1761.cpp
 
@@ -271,6 +270,9 @@ CMakeFiles/algorithms.dir/2931.cpp.o: ../2931.cpp
 CMakeFiles/algorithms.dir/2959.cpp.o: ../2959.cpp
 
 CMakeFiles/algorithms.dir/2980.cpp.o: ../2980.cpp
+
+CMakeFiles/algorithms.dir/3015.cpp.o: ../3015.cpp
+CMakeFiles/algorithms.dir/3015.cpp.o: ../bits/stdc++.h
 
 CMakeFiles/algorithms.dir/3019.cpp.o: ../3019.cpp
 
