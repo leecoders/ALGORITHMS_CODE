@@ -24,7 +24,9 @@ CMakeFiles/algorithms.dir/1062.cpp.o: ../1062.cpp
 CMakeFiles/algorithms.dir/1063.cpp.o: ../1063.cpp
 
 CMakeFiles/algorithms.dir/10653.cpp.o: ../10653.cpp
-CMakeFiles/algorithms.dir/10653.cpp.o: ../bits/stdc++.h
+
+CMakeFiles/algorithms.dir/10654.cpp.o: ../10654.cpp
+CMakeFiles/algorithms.dir/10654.cpp.o: ../bits/stdc++.h
 
 CMakeFiles/algorithms.dir/10655.cpp.o: ../10655.cpp
 
