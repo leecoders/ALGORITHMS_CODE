@@ -23,6 +23,15 @@ CMakeFiles/algorithms.dir/1062.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1062.cpp
 CMakeFiles/algorithms.dir/1063.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1063.cpp
+CMakeFiles/algorithms.dir/10653.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10653.cpp
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/bits/stdc++.h
+CMakeFiles/algorithms.dir/10655.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10655.cpp
+CMakeFiles/algorithms.dir/10656.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10656.cpp
+CMakeFiles/algorithms.dir/10657.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10657.cpp
 CMakeFiles/algorithms.dir/1074.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1074.cpp
 CMakeFiles/algorithms.dir/10815.cpp.o
@@ -37,6 +46,8 @@ CMakeFiles/algorithms.dir/10845.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10845.cpp
 CMakeFiles/algorithms.dir/10942.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10942.cpp
+CMakeFiles/algorithms.dir/1107.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1107.cpp
 CMakeFiles/algorithms.dir/11437.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/11437.cpp
 CMakeFiles/algorithms.dir/11438.cpp.o
@@ -215,6 +226,8 @@ CMakeFiles/algorithms.dir/1935.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1935.cpp
 CMakeFiles/algorithms.dir/1941.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1941.cpp
+CMakeFiles/algorithms.dir/1966.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1966.cpp
 CMakeFiles/algorithms.dir/1967.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1967.cpp
 CMakeFiles/algorithms.dir/1986.cpp.o
@@ -253,12 +266,16 @@ CMakeFiles/algorithms.dir/2455.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2455.cpp
 CMakeFiles/algorithms.dir/2493.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2493.cpp
+CMakeFiles/algorithms.dir/2580.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2580.cpp
 CMakeFiles/algorithms.dir/2615.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2615.cpp
 CMakeFiles/algorithms.dir/2812.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2812.cpp
 CMakeFiles/algorithms.dir/2866.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2866.cpp
+CMakeFiles/algorithms.dir/2867.cpp.o
+ /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2867.cpp
 CMakeFiles/algorithms.dir/2870.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2870.cpp
 CMakeFiles/algorithms.dir/2915.cpp.o
@@ -273,7 +290,6 @@ CMakeFiles/algorithms.dir/2980.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2980.cpp
 CMakeFiles/algorithms.dir/3015.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3015.cpp
- /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/bits/stdc++.h
 CMakeFiles/algorithms.dir/3019.cpp.o
  /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3019.cpp
 CMakeFiles/algorithms.dir/3048.cpp.o

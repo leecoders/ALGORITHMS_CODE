@@ -2605,6 +2605,110 @@ CMakeFiles/algorithms.dir/3015.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/3015.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/3015.cpp -o CMakeFiles/algorithms.dir/3015.cpp.s
 
+CMakeFiles/algorithms.dir/2867.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/2867.cpp.o: ../2867.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/algorithms.dir/2867.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/2867.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2867.cpp
+
+CMakeFiles/algorithms.dir/2867.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/2867.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2867.cpp > CMakeFiles/algorithms.dir/2867.cpp.i
+
+CMakeFiles/algorithms.dir/2867.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/2867.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2867.cpp -o CMakeFiles/algorithms.dir/2867.cpp.s
+
+CMakeFiles/algorithms.dir/1966.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/1966.cpp.o: ../1966.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/algorithms.dir/1966.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/1966.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1966.cpp
+
+CMakeFiles/algorithms.dir/1966.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/1966.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1966.cpp > CMakeFiles/algorithms.dir/1966.cpp.i
+
+CMakeFiles/algorithms.dir/1966.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/1966.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1966.cpp -o CMakeFiles/algorithms.dir/1966.cpp.s
+
+CMakeFiles/algorithms.dir/1107.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/1107.cpp.o: ../1107.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/algorithms.dir/1107.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/1107.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1107.cpp
+
+CMakeFiles/algorithms.dir/1107.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/1107.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1107.cpp > CMakeFiles/algorithms.dir/1107.cpp.i
+
+CMakeFiles/algorithms.dir/1107.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/1107.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1107.cpp -o CMakeFiles/algorithms.dir/1107.cpp.s
+
+CMakeFiles/algorithms.dir/2580.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/2580.cpp.o: ../2580.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/algorithms.dir/2580.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/2580.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2580.cpp
+
+CMakeFiles/algorithms.dir/2580.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/2580.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2580.cpp > CMakeFiles/algorithms.dir/2580.cpp.i
+
+CMakeFiles/algorithms.dir/2580.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/2580.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/2580.cpp -o CMakeFiles/algorithms.dir/2580.cpp.s
+
+CMakeFiles/algorithms.dir/10655.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/10655.cpp.o: ../10655.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/algorithms.dir/10655.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/10655.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10655.cpp
+
+CMakeFiles/algorithms.dir/10655.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/10655.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10655.cpp > CMakeFiles/algorithms.dir/10655.cpp.i
+
+CMakeFiles/algorithms.dir/10655.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/10655.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10655.cpp -o CMakeFiles/algorithms.dir/10655.cpp.s
+
+CMakeFiles/algorithms.dir/10656.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/10656.cpp.o: ../10656.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/algorithms.dir/10656.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/10656.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10656.cpp
+
+CMakeFiles/algorithms.dir/10656.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/10656.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10656.cpp > CMakeFiles/algorithms.dir/10656.cpp.i
+
+CMakeFiles/algorithms.dir/10656.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/10656.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10656.cpp -o CMakeFiles/algorithms.dir/10656.cpp.s
+
+CMakeFiles/algorithms.dir/10657.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/10657.cpp.o: ../10657.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/algorithms.dir/10657.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/10657.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10657.cpp
+
+CMakeFiles/algorithms.dir/10657.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/10657.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10657.cpp > CMakeFiles/algorithms.dir/10657.cpp.i
+
+CMakeFiles/algorithms.dir/10657.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/10657.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10657.cpp -o CMakeFiles/algorithms.dir/10657.cpp.s
+
+CMakeFiles/algorithms.dir/10653.cpp.o: CMakeFiles/algorithms.dir/flags.make
+CMakeFiles/algorithms.dir/10653.cpp.o: ../10653.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/algorithms.dir/10653.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithms.dir/10653.cpp.o -c /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10653.cpp
+
+CMakeFiles/algorithms.dir/10653.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithms.dir/10653.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10653.cpp > CMakeFiles/algorithms.dir/10653.cpp.i
+
+CMakeFiles/algorithms.dir/10653.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithms.dir/10653.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/leecoders/CLionProjects/algorithmsCode/Algorithms/10653.cpp -o CMakeFiles/algorithms.dir/10653.cpp.s
+
 # Object files for target algorithms
 algorithms_OBJECTS = \
 "CMakeFiles/algorithms.dir/printingstar_16505.cpp.o" \
@@ -2802,7 +2906,15 @@ algorithms_OBJECTS = \
 "CMakeFiles/algorithms.dir/1194.cpp.o" \
 "CMakeFiles/algorithms.dir/4949.cpp.o" \
 "CMakeFiles/algorithms.dir/17299.cpp.o" \
-"CMakeFiles/algorithms.dir/3015.cpp.o"
+"CMakeFiles/algorithms.dir/3015.cpp.o" \
+"CMakeFiles/algorithms.dir/2867.cpp.o" \
+"CMakeFiles/algorithms.dir/1966.cpp.o" \
+"CMakeFiles/algorithms.dir/1107.cpp.o" \
+"CMakeFiles/algorithms.dir/2580.cpp.o" \
+"CMakeFiles/algorithms.dir/10655.cpp.o" \
+"CMakeFiles/algorithms.dir/10656.cpp.o" \
+"CMakeFiles/algorithms.dir/10657.cpp.o" \
+"CMakeFiles/algorithms.dir/10653.cpp.o"
 
 # External object files for target algorithms
 algorithms_EXTERNAL_OBJECTS =
@@ -3003,9 +3115,17 @@ algorithms: CMakeFiles/algorithms.dir/1194.cpp.o
 algorithms: CMakeFiles/algorithms.dir/4949.cpp.o
 algorithms: CMakeFiles/algorithms.dir/17299.cpp.o
 algorithms: CMakeFiles/algorithms.dir/3015.cpp.o
+algorithms: CMakeFiles/algorithms.dir/2867.cpp.o
+algorithms: CMakeFiles/algorithms.dir/1966.cpp.o
+algorithms: CMakeFiles/algorithms.dir/1107.cpp.o
+algorithms: CMakeFiles/algorithms.dir/2580.cpp.o
+algorithms: CMakeFiles/algorithms.dir/10655.cpp.o
+algorithms: CMakeFiles/algorithms.dir/10656.cpp.o
+algorithms: CMakeFiles/algorithms.dir/10657.cpp.o
+algorithms: CMakeFiles/algorithms.dir/10653.cpp.o
 algorithms: CMakeFiles/algorithms.dir/build.make
 algorithms: CMakeFiles/algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Linking CXX executable algorithms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Linking CXX executable algorithms"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithms.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
