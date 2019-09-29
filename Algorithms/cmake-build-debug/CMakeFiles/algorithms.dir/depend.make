@@ -209,6 +209,9 @@ CMakeFiles/algorithms.dir/17298.cpp.o: ../17298.cpp
 
 CMakeFiles/algorithms.dir/17299.cpp.o: ../17299.cpp
 
+CMakeFiles/algorithms.dir/17471.cpp.o: ../17471.cpp
+CMakeFiles/algorithms.dir/17471.cpp.o: ../bits/stdc++.h
+
 CMakeFiles/algorithms.dir/1761.cpp.o: ../1761.cpp
 
 CMakeFiles/algorithms.dir/1780.cpp.o: ../1780.cpp
@@ -268,7 +271,6 @@ CMakeFiles/algorithms.dir/2455.cpp.o: ../2455.cpp
 CMakeFiles/algorithms.dir/2493.cpp.o: ../2493.cpp
 
 CMakeFiles/algorithms.dir/2580.cpp.o: ../2580.cpp
-CMakeFiles/algorithms.dir/2580.cpp.o: ../bits/stdc++.h
 
 CMakeFiles/algorithms.dir/2615.cpp.o: ../2615.cpp
 
@@ -407,6 +409,8 @@ CMakeFiles/algorithms.dir/swea4008.cpp.o: ../swea4008.cpp
 CMakeFiles/algorithms.dir/swea4131.cpp.o: ../swea4131.cpp
 
 CMakeFiles/algorithms.dir/swea5656.cpp.o: ../swea5656.cpp
+
+CMakeFiles/algorithms.dir/temp.cpp.o: ../temp.cpp
 
 CMakeFiles/algorithms.dir/test_array_as_a_parameter.cpp.o: ../test_array_as_a_parameter.cpp
 

@@ -392,6 +392,9 @@
 		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17299.cpp">
 			<Option target="algorithms"/>
 		</Unit>
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/17471.cpp">
+			<Option target="algorithms"/>
+		</Unit>
 		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/1761.cpp">
 			<Option target="algorithms"/>
 		</Unit>
@@ -687,6 +690,9 @@
 			<Option target="algorithms"/>
 		</Unit>
 		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/swea5656.cpp">
+			<Option target="algorithms"/>
+		</Unit>
+		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/temp.cpp">
 			<Option target="algorithms"/>
 		</Unit>
 		<Unit filename="/Users/leecoders/CLionProjects/algorithmsCode/Algorithms/test_array_as_a_parameter.cpp">
