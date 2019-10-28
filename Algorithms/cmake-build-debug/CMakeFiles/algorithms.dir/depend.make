@@ -210,9 +210,11 @@ CMakeFiles/algorithms.dir/17298.cpp.o: ../17298.cpp
 CMakeFiles/algorithms.dir/17299.cpp.o: ../17299.cpp
 
 CMakeFiles/algorithms.dir/17471.cpp.o: ../17471.cpp
-CMakeFiles/algorithms.dir/17471.cpp.o: ../bits/stdc++.h
 
 CMakeFiles/algorithms.dir/1761.cpp.o: ../1761.cpp
+
+CMakeFiles/algorithms.dir/17780.cpp.o: ../17780.cpp
+CMakeFiles/algorithms.dir/17780.cpp.o: ../bits/stdc++.h
 
 CMakeFiles/algorithms.dir/1780.cpp.o: ../1780.cpp
 
